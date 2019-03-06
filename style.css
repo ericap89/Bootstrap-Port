@@ -1,0 +1,41 @@
+body {
+    background-color:black;
+}
+
+#page-header {
+    height: 200px;
+    background: url(./images/IMG_3674.JPG);
+    background-position:0 -850px;
+    background-attachment: fixed;
+    color:white;
+    font-family: 'Lobster', 'cursive';
+    padding-top: 50px;
+
+
+}
+
+.about-img {
+    margin-top: 25px;
+}
+
+
+.jumbotron {
+    background-image: url(./images/IMG_3674.JPG);
+    font-family: 'Lobster', cursive;
+    
+}
+#main-footer {
+    background-image: url(./images/IMG_3674.JPG)
+}
+
+.footer {
+    position: fixed;
+    font-family: 'Lobster', cursive;
+}
+
+.quote {
+    text-align: center;
+    background-color: black;
+    
+   
+}
